@@ -13,7 +13,7 @@ Pillow
 python-decouple
 whitenoise
 gunicorn
-psycopg
+psycopg2
 dj-database-url
 django-crispy-forms
 boto3 
